@@ -1,2 +1,4 @@
 sem_6/
 Data/
+.*
+!/.gitignore
